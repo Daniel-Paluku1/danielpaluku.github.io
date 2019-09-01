@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+#main_photo{
+    max-width: 100%;
+    width: auto;
+}
+
 ol, ul {
 	list-style: none;
 }
